@@ -1,0 +1,4 @@
+**/authorized_keys
+**/.ssh
+out
+work
